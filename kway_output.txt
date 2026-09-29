@@ -1,0 +1,7 @@
+Initial Heap: 10 20 15
+
+Merged Output:
+10 15 20 30 35 40 50 55 60 70 75 80
+
+Number of elements: 12
+Number of key comparisons: 21
